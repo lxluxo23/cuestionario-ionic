@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cuestionario</string>
+    <string name="title_activity_main">cuestionario</string>
+    <string name="package_name">com.lxdeveloper.cuestionario</string>
+    <string name="custom_url_scheme">com.lxdeveloper.cuestionario</string>
+</resources>

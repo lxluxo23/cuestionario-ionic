@@ -1,0 +1,65 @@
+[
+  {
+    "text": "¿Cuál es tu color favorito?",
+    "options": [
+      {
+        "text": "Rojo",
+        "value": "red"
+      },
+      {
+        "text": "Azul",
+        "value": "blue"
+      },
+      {
+        "text": "Verde",
+        "value": "green"
+      },
+      {
+        "text": "Amarillo",
+        "value": "yellow"
+      }
+    ]
+  },
+  {
+    "text": "¿Cuál es tu comida favorita?",
+    "options": [
+      {
+        "text": "Pizza",
+        "value": "pizza"
+      },
+      {
+        "text": "Hamburguesa",
+        "value": "hamburger"
+      },
+      {
+        "text": "Sushi",
+        "value": "sushi"
+      },
+      {
+        "text": "Tacos",
+        "value": "tacos"
+      }
+    ]
+  },
+  {
+    "text": "¿Cuál es tu deporte favorito?",
+    "options": [
+      {
+        "text": "Fútbol",
+        "value": "football"
+      },
+      {
+        "text": "Básquetbol",
+        "value": "basketball"
+      },
+      {
+        "text": "Baloncesto",
+        "value": "soccer"
+      },
+      {
+        "text": "Beisbol",
+        "value": "baseball"
+      }
+    ]
+  }
+]

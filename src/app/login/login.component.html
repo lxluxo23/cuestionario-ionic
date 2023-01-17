@@ -1,0 +1,34 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Inicio de sesión</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form>
+    <ion-list>
+      <ion-item>
+        <ion-label position="stacked">Usuario</ion-label>
+        <ion-input type="text" name="username" ngModel required></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="stacked">Contraseña</ion-label>
+        <ion-input type="password" name="password" ngModel required></ion-input>
+      </ion-item>
+    </ion-list>
+    <div>
+
+    </div>
+  </form>
+  <ion-item-divider></ion-item-divider>
+  <div>
+    <ion-button (click)="navegar()" expand="block" color="danger">
+      <ion-icon slot="start" name="logo-google"></ion-icon>
+      Iniciar sesión con Google
+    </ion-button>
+    <ion-button (click)="navegar()" expand="block" color="primary">
+      <ion-icon slot="start" name="logo-facebook"></ion-icon>
+      Iniciar sesión con facebook
+    </ion-button>
+  </div>
+</ion-content>

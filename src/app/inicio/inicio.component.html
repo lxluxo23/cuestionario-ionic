@@ -1,0 +1,20 @@
+<ion-content>
+  <div *ngIf="preguntaActual < preguntas.length">
+    <ion-card style="height: 100%;">
+      <ion-card-header>
+        <ion-card-title>Pregunta {{ preguntaActual + 1 }}</ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        {{ preguntas[preguntaActual].text }}
+      </ion-card-content>
+      <div class="display: flex; align-items: center;">
+        <ion-list>
+          <ion-item *ngFor="let opcion of preguntas[preguntaActual].options">
+            <ion-label full text-wrap>{{ opcion.text }}</ion-label>
+            <ion-radio [value]="opcion.value" (click)="selectOption(opcion.value)"></ion-radio>
+          </ion-item>
+        </ion-list>
+      </div>
+    </ion-card>
+  </div>
+</ion-content>

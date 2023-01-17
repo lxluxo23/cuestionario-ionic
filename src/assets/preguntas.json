@@ -1,0 +1,107 @@
+[
+  {
+    "text": "Tu jefe te pide que hagas algo que va en contra de tus principios éticos. ¿Qué harías?",
+    "options": [
+      {
+        "text": "Haría lo que me pide sin cuestionarlo, porque es mi jefe.",
+        "value": "a"
+      },
+      {
+        "text": "Trataría de persuadir a mi jefe de que hay otras opciones que no involucran violar mis principios éticos.",
+        "value": "b"
+      },
+      {
+        "text": "Me negaría a hacerlo y expondría mis razones a mi jefe.",
+        "value": "c"
+      },
+      {
+        "text": "Haría lo que me pide y luego trataría de reparar cualquier daño que haya causado en secreto.",
+        "value": "d"
+      }
+    ]
+  },
+  {
+    "text": "Estás en una reunión y alguien hace un comentario ofensivo. ¿Qué harías?",
+    "options": [
+      {
+        "text": "Ignoraría el comentario y seguiría con la reunión como si nada hubiera pasado.",
+        "value": "a"
+      },
+      {
+        "text": "Haría una broma para desviar la atención y evitar el conflicto.",
+        "value": "b"
+      },
+      {
+        "text": "Me disculparía con la persona ofendida y trataría de aclarar el malentendido.",
+        "value": "c"
+      },
+      {
+        "text": "Confrontaría al autor del comentario y le exigiría que se disculpe.",
+        "value": "d"
+      }
+    ]
+  },
+  {
+    "text": "Has olvidado tu libro de texto en casa y tienes un examen importante ese día. ¿Qué harías?",
+    "options": [
+      {
+        "text": "Iría a casa a buscar el libro, aunque llegue tarde al examen.",
+        "value": "a"
+      },
+      {
+        "text": "Pediría prestado el libro a un compañero de clase.",
+        "value": "b"
+      },
+      {
+        "text": "Trataría de copiar de alguien durante el examen.",
+        "value": "c"
+      },
+      {
+        "text": " Le pediría al profesor una copia del examen o una posibilidad de hacerlo en otro momento.",
+        "value": "d"
+      }
+    ]
+  },
+  {
+    "text": "Te ofrecen un trabajo que te gusta mucho, pero implica trabajar horas extras y sacrificar tiempo con tu familia y amigos. ¿Qué harías?",
+    "options": [
+      {
+        "text": "Aceptaría el trabajo sin dudarlo, ya que es una oportunidad única.",
+        "value": "a"
+      },
+      {
+        "text": "Rechazaría el trabajo, ya que mi tiempo con mi familia y amigos es muy importante para mí.",
+        "value": "b"
+      },
+      {
+        "text": "Aceptaría el trabajo y trataría de encontrar un equilibrio entre mi vida laboral y personal.",
+        "value": "c"
+      },
+      {
+        "text": " Pediría una reducción de horas o un horario más flexible antes de tomar una decisión.",
+        "value": "d"
+      }
+    ]
+  },
+  {
+    "text": "Te invitan a una fiesta el mismo día que tienes un proyecto importante que entregar. ¿Qué harías?",
+    "options": [
+      {
+        "text": "Iría a la fiesta y dejaría el proyecto para después.",
+        "value": "a"
+      },
+      {
+        "text": "Me quedaría en casa y me concentraría en terminar el proyecto.",
+        "value": "b"
+      },
+      {
+        "text": "Trataría de terminar el proyecto lo más rápido posible para poder ir a la fiesta.",
+        "value": "c"
+      },
+      {
+        "text": " Les diría a mis amigos que no puedo ir y luego trataría de completar el proyecto a tiempo.",
+        "value": "d"
+      }
+    ]
+  }
+]
